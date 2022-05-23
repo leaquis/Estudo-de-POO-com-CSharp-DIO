@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Cursos\\DIO\\DIO GFT Start #5 .NET\\modulo 3\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\jogo\\jogo.csproj": {}
+  },
+  "projects": {
+    "A:\\Cursos\\DIO\\DIO GFT Start #5 .NET\\modulo 3\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\jogo\\jogo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Cursos\\DIO\\DIO GFT Start #5 .NET\\modulo 3\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\jogo\\jogo.csproj",
+        "projectName": "jogo",
+        "projectPath": "A:\\Cursos\\DIO\\DIO GFT Start #5 .NET\\modulo 3\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\jogo\\jogo.csproj",
+        "packagesPath": "C:\\Users\\Erika\\.nuget\\packages\\",
+        "outputPath": "A:\\Cursos\\DIO\\DIO GFT Start #5 .NET\\modulo 3\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\jogo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Erika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
